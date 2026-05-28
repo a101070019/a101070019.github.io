@@ -68,3 +68,8 @@ section#cta{
 section#cta h2{
     color: white;
 }
+
+.andypic{
+    width: 98%;
+    border-radius: 10px;
+}
